@@ -20,7 +20,7 @@ const Background = () => {
       if (window.innerWidth <= 450) {
         setBg('./images/phone-bg.webp');
       } else {
-        setBg('./images/lap-bg.png');
+        setBg('./images/lap-bg.webp');
       }
     };
 
